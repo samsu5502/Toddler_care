@@ -156,9 +156,11 @@ p,ul{
     text-decoration: none;
     color: #ff599a;
 }
+.about-us ul li {
+    display: block !important;
 
-.about-us  ul{
 }
+
 
 .third_container{
     background-color: #f7f7f7;
